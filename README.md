@@ -1,6 +1,6 @@
 # from-brute-to-beauty
 
-# Smarter Search: Designing Efficient Algorithms for Sorted Arrays 🔍
+# Smarter Search: Designing Efficient Algorithms for Sorted Arrays 
 
 This repo explores algorithmic strategies to solve a classic search problem — finding the first and last position of a target value in a sorted array, and counting its total occurrences.
 
